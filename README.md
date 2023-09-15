@@ -1,8 +1,8 @@
 # CSE142-Spring2021-Assessment2-SpaceNeedle
 Take-home Assessment 1: Space Needle
 
-#Program Behavior
-#Part A: ASCII Art
+# Program Behavior
+## Part A: ASCII Art
 The first part of your assessment is to write a program that produces any text art (sometimes called "ASCII art") picture you like. Your program can produce any picture you like, with the following restrictions:
 - The picture should be your own creation, not an ASCII image you found on the Internet or elsewhere.
 - The picture should not include hateful, offensive, or otherwise inappropriate images.
@@ -13,7 +13,7 @@ The first part of your assessment is to write a program that produces any text a
 
 This part of the assessment will only contribute to the Behavior dimension grade. It will not factor in to grading on the other dimensions.
 
-##Part B: Space Needle
+## Part B: Space Needle
 
 As on assessment 1, you must exactly match the output. The second part of your assessment is to produce a specific text figure that is supposed to look like Seattle’s Space Needle. Your program should exactly reproduce the format of the output to the left, including characters and spacing. The Mark button in Ed will be helpful in confirming you’ve produced the correct output.
 
