@@ -19,5 +19,5 @@ As on assessment 1, you must exactly match the output. The second part of your a
 
 You should be able to change a single value at one point in the code to scale the figure. In addition to producing the default Space Needle shown below, your program will need to be able to be easily modified to produce similar images of different sizes. You will still only turn in one program, and your program will only produce one size of output on any given run. However, we should be able to make a single change to your code and recompile to produce a different size.
 
-#You can read the full specification here(https://courses.cs.washington.edu/courses/cse142/21sp/files/assessments/a2/a2.pdf)
+You can read the full specification [here!](https://courses.cs.washington.edu/courses/cse142/21sp/files/assessments/a2/a2.pdf)
 
